@@ -10,3 +10,8 @@
 ---
 
 ## 📦 目录结构
+  config.py
+│  main.py
+│  README.md
+│  weiboSpide.py
+│
